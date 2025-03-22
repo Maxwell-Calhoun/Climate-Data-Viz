@@ -1,6 +1,6 @@
 # CSE 494 Project - Climate Change
 
-- Maxwell Calhoun - mlcalhou@asu.edu
+- Maxwell Calhoun - Maxwell.Lee.Calhoun@gmail.com
 - Raj Datta - ndatta@asu.edu
 - Tucker Prynn - tprynn2@asu.edu
 
