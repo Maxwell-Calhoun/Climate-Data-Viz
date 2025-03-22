@@ -1,4 +1,4 @@
-# Climate Change
+# Climate Change Data Visualization
 
 - Maxwell Calhoun - Maxwell.Lee.Calhoun@gmail.com
 - Raj Datta - ndatta@asu.edu
