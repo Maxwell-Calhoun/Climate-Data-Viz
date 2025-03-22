@@ -6,8 +6,6 @@
 
 ## Project Overview
 
-<center><img src="/images/thumbnail.png" alt="thumbnail" /></center>
-
 Climate change has been regarded as humanity's greatest and most immediate external threat. Within our narrative, we aim to explain how climate change came to be such a large problem in modern society (kicking off from the industrial age), the effects it has on our local and global environment, and why it is not as simple of a problem to solve as it may seem at first (due to the intricacies of global supply chains and economic demand).
 
 ## Goals and Tasks
