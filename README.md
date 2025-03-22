@@ -10,6 +10,12 @@
 
 Climate change has been regarded as humanity's greatest and most immediate external threat. Within our narrative, we aim to explain how climate change came to be such a large problem in modern society (kicking off from the industrial age), the effects it has on our local and global environment, and why it is not as simple of a problem to solve as it may seem at first (due to the intricacies of global supply chains and economic demand).
 
+## Goals and Tasks
+
+The primary task of the user is to analyze trends in climate data through time-series visualizations of temperature, extreme weather events, and gas emissions. We want the user to understand what climate change is, the effects it has on our environment, and why there is no overnight solution for this pressing global issue.
+
+Users should be able to query the relative impact that each contributor has produced by comparing GDP and HDI data against greenhouse emissions data for that country. Based on their observations, the user will be able to determine whether any correlation exists between these attributes and climate impact.
+
 ## Idioms
 
 Our interface is fairly simple in design. Given that it incorporates scrollytelling, it is in the form of a single page of substantial height. The left-hand section of the page is reserved for the active visualization of each section of our narrative, while the right-hand section of the page contains the text content for that section. 
@@ -144,12 +150,6 @@ Cardinality: **1:1 for each extreme weather event, for each year**
   - Type: **Quantitative, Sequential**
 
 - Cardinality: **1:1 for each location in the dataset**
-
-## Goals and Tasks
-
-The primary task of the user is to analyze trends in climate data through time-series visualizations of temperature, extreme weather events, and gas emissions. We want the user to understand what climate change is, the effects it has on our environment, and why there is no overnight solution for this pressing global issue.
-
-Users should be able to query the relative impact that each contributor has produced by comparing GDP and HDI data against greenhouse emissions data for that country. Based on their observations, the user will be able to determine whether any correlation exists between these attributes and climate impact.
 
 ## Reflection
 
