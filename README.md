@@ -10,6 +10,58 @@
 
 Climate change has been regarded as humanity's greatest and most immediate external threat. Within our narrative, we aim to explain how climate change came to be such a large problem in modern society (kicking off from the industrial age), the effects it has on our local and global environment, and why it is not as simple of a problem to solve as it may seem at first (due to the intricacies of global supply chains and economic demand).
 
+## Idioms
+
+Our interface is fairly simple in design. Given that it incorporates scrollytelling, it is in the form of a single page of substantial height. The left-hand section of the page is reserved for the active visualization of each section of our narrative, while the right-hand section of the page contains the text content for that section. 
+
+All visualizations use the same SVG element, and thus have the same dimensions and general styling principles. The only algorithms we used were those to preprocess the datasets and to handle the section boundary transitions as part of scrollytelling.
+
+### Visualizations
+
+#### Pie Chart - Climate Opinions
+
+<center><img src="/images/pie.png" alt="pie" width="400" /></center>
+
+The pie chart visualizes the percentage of individuals (according to Yale's 2021 Climate Opinion Map) who either believe or don't believe in climate change. We wanted for there to be a sharp contrast in color between the "Believes" and "Does Not Believe" slices of the pie chart, with the neutral slice being colored grey as a secondary focus.
+
+This visualization has an interactive tooltip, where the percentage of a given slice will be displayed whenever the mouse cursor is within its region.
+
+#### Line Chart - Extreme Weather Activity
+
+<center><img src="/images/line.png" alt="line" width="400" /></center>
+
+The line chart visualizes the frequency of extreme weather events (specifically ones resulting in tornados) in the United States between the years of 1955 to 2022. Due to the volatility in year-on-year frequency, we decided to overlay an average trend line in order to clearly indicate an increase in extreme weather activity over time.
+
+#### Lollipop Chart - Top 20 CO2 Emissions
+
+<center><img src="/images/lollipop.png" alt="lollipop" width="400" /> </center>
+
+The lollipop chart visualizes the top 25 contributors to CO2 emissions per capita in 2020. We added an element of interactivity in the form of a tooltip displaying the annual emissions amount for that country. 
+
+#### Choropleth - Total Emissions per Country
+
+<center><img src="/images/choro.png" alt="choropleth" width="400" /> </center>
+
+We used a choropleth to visualize the total emissions data of each country. The color of each country acts as a visual indicator for the scale of its total greenhouse emissions. We used a log scale to emphasize that some countries emit orders of magnitudes more greenhouse gases than others.
+
+We added an interactive tooltip so that the user could see the quantity of gases released by each country (and compare them to one another).
+
+#### Scatterplot - Human Development Index
+
+<center><img src="/images/scatterplot.png" alt="scatterplot" width="400" /> </center>
+
+A scatterplot was used to compare each country's Human Development Index (HDI) rating for the years of 1990, 2000, 2010, and 2020. Given the density in point distribution, we elected to keep all countries' data points colored the same (and slightly transparent) to increase readability. Additionally, we added an interactive tooltip to display the country name and accompanying HDI score for a given data point.
+
+#### Innovative - CO2 Emissions & GDP
+
+<center><img src="/images/inno1.png" alt="innovative 1" width="400" /></center>
+
+The innovative view was split up into two layers. The first layer is a bubble chart plotting the GDP of a country against its population, with the size of each bubble being proportionate to the amount of CO2 emissions for that country. An interactive tooltip was added to display the country name, population, and CO2 emissions for the selected bubble.
+
+<center><img src="/images/inno2.png" alt="innovative 2" width="400" /></center>
+
+Clicking on a bubble activates the second layer, transitioning the selected bubble into an expanded pie chart showing the distribution of CO2 emission sources for that country in 2018. Hovering over a slice shows the amount of CO2 in metric tons emitted by that source.
+
 ## Data Description
 
 ### Dataset #1 - [HDI Index - Trends from 1990-2021](https://hdr.undp.org/data-center/documentation-and-downloads)
@@ -98,58 +150,6 @@ Cardinality: **1:1 for each extreme weather event, for each year**
 The primary task of the user is to analyze trends in climate data through time-series visualizations of temperature, extreme weather events, and gas emissions. We want the user to understand what climate change is, the effects it has on our environment, and why there is no overnight solution for this pressing global issue.
 
 Users should be able to query the relative impact that each contributor has produced by comparing GDP and HDI data against greenhouse emissions data for that country. Based on their observations, the user will be able to determine whether any correlation exists between these attributes and climate impact.
-
-## Idioms
-
-Our interface is fairly simple in design. Given that it incorporates scrollytelling, it is in the form of a single page of substantial height. The left-hand section of the page is reserved for the active visualization of each section of our narrative, while the right-hand section of the page contains the text content for that section. 
-
-All visualizations use the same SVG element, and thus have the same dimensions and general styling principles. The only algorithms we used were those to preprocess the datasets and to handle the section boundary transitions as part of scrollytelling.
-
-### Visualizations
-
-#### Pie Chart - Climate Opinions
-
-<center><img src="/images/pie.png" alt="pie" width="400" /></center>
-
-The pie chart visualizes the percentage of individuals (according to Yale's 2021 Climate Opinion Map) who either believe or don't believe in climate change. We wanted for there to be a sharp contrast in color between the "Believes" and "Does Not Believe" slices of the pie chart, with the neutral slice being colored grey as a secondary focus.
-
-This visualization has an interactive tooltip, where the percentage of a given slice will be displayed whenever the mouse cursor is within its region.
-
-#### Line Chart - Extreme Weather Activity
-
-<center><img src="/images/line.png" alt="line" width="400" /></center>
-
-The line chart visualizes the frequency of extreme weather events (specifically ones resulting in tornados) in the United States between the years of 1955 to 2022. Due to the volatility in year-on-year frequency, we decided to overlay an average trend line in order to clearly indicate an increase in extreme weather activity over time.
-
-#### Lollipop Chart - Top 20 CO2 Emissions
-
-<center><img src="/images/lollipop.png" alt="lollipop" width="400" /> </center>
-
-The lollipop chart visualizes the top 25 contributors to CO2 emissions per capita in 2020. We added an element of interactivity in the form of a tooltip displaying the annual emissions amount for that country. 
-
-#### Choropleth - Total Emissions per Country
-
-<center><img src="/images/choro.png" alt="choropleth" width="400" /> </center>
-
-We used a choropleth to visualize the total emissions data of each country. The color of each country acts as a visual indicator for the scale of its total greenhouse emissions. We used a log scale to emphasize that some countries emit orders of magnitudes more greenhouse gases than others.
-
-We added an interactive tooltip so that the user could see the quantity of gases released by each country (and compare them to one another).
-
-#### Scatterplot - Human Development Index
-
-<center><img src="/images/scatterplot.png" alt="scatterplot" width="400" /> </center>
-
-A scatterplot was used to compare each country's Human Development Index (HDI) rating for the years of 1990, 2000, 2010, and 2020. Given the density in point distribution, we elected to keep all countries' data points colored the same (and slightly transparent) to increase readability. Additionally, we added an interactive tooltip to display the country name and accompanying HDI score for a given data point.
-
-#### Innovative - CO2 Emissions & GDP
-
-<center><img src="/images/inno1.png" alt="innovative 1" width="400" /></center>
-
-The innovative view was split up into two layers. The first layer is a bubble chart plotting the GDP of a country against its population, with the size of each bubble being proportionate to the amount of CO2 emissions for that country. An interactive tooltip was added to display the country name, population, and CO2 emissions for the selected bubble.
-
-<center><img src="/images/inno2.png" alt="innovative 2" width="400" /></center>
-
-Clicking on a bubble activates the second layer, transitioning the selected bubble into an expanded pie chart showing the distribution of CO2 emission sources for that country in 2018. Hovering over a slice shows the amount of CO2 in metric tons emitted by that source.
 
 ## Reflection
 
