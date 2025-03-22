@@ -1,0 +1,697 @@
+﻿Country,Year,HDI
+Switzerland,1990,0.851
+Norway,1990,0.838
+Iceland,1990,0.811
+"Hong Kong, China (SAR)",1990,0.788
+Australia,1990,0.865
+Denmark,1990,0.834
+Sweden,1990,0.81
+Ireland,1990,0.737
+Germany,1990,0.829
+Netherlands,1990,0.847
+Finland,1990,0.814
+Singapore,1990,0.727
+Belgium,1990,0.816
+New Zealand,1990,0.806
+Canada,1990,0.86
+Luxembourg,1990,0.786
+United Kingdom,1990,0.804
+Japan,1990,0.845
+Korea (Republic of),1990,0.737
+United States,1990,0.872
+Israel,1990,0.787
+Malta,1990,0.73
+Austria,1990,0.825
+United Arab Emirates,1990,0.728
+Spain,1990,0.757
+France,1990,0.791
+Cyprus,1990,0.716
+Italy,1990,0.778
+Estonia,1990,0.732
+Czechia,1990,0.742
+Greece,1990,0.759
+Poland,1990,0.716
+Bahrain,1990,0.742
+Lithuania,1990,0.734
+Saudi Arabia,1990,0.678
+Portugal,1990,0.701
+Latvia,1990,0.73
+Chile,1990,0.706
+Qatar,1990,0.758
+Slovakia,1990,0.692
+Hungary,1990,0.72
+Argentina,1990,0.723
+Türkiye,1990,0.6
+Kuwait,1990,0.718
+Brunei Darussalam,1990,0.77
+Russian Federation,1990,0.743
+Romania,1990,0.703
+Kazakhstan,1990,0.673
+Trinidad and Tobago,1990,0.66
+Costa Rica,1990,0.66
+Uruguay,1990,0.701
+Panama,1990,0.669
+Malaysia,1990,0.64
+Mauritius,1990,0.626
+Thailand,1990,0.576
+Albania,1990,0.647
+Bulgaria,1990,0.684
+Barbados,1990,0.725
+Sri Lanka,1990,0.636
+Iran (Islamic Republic of),1990,0.601
+Ukraine,1990,0.729
+China,1990,0.484
+Dominican Republic,1990,0.577
+Moldova (Republic of),1990,0.653
+Cuba,1990,0.68
+Peru,1990,0.621
+Armenia,1990,0.656
+Mexico,1990,0.662
+Brazil,1990,0.61
+Colombia,1990,0.61
+Algeria,1990,0.591
+Tonga,1990,0.645
+Ecuador,1990,0.651
+Mongolia,1990,0.579
+Egypt,1990,0.572
+Tunisia,1990,0.576
+Fiji,1990,0.642
+Jordan,1990,0.622
+Libya,1990,0.666
+Paraguay,1990,0.595
+Saint Lucia,1990,0.69
+Guyana,1990,0.509
+South Africa,1990,0.632
+Jamaica,1990,0.659
+Gabon,1990,0.61
+Indonesia,1990,0.526
+Vietnam,1990,0.482
+Philippines,1990,0.598
+Botswana,1990,0.586
+Bolivia (Plurinational State of),1990,0.55
+Kyrgyzstan,1990,0.638
+Venezuela (Bolivarian Republic of),1990,0.659
+Iraq,1990,0.528
+Tajikistan,1990,0.628
+Belize,1990,0.593
+Morocco,1990,0.447
+El Salvador,1990,0.525
+Nicaragua,1990,0.49
+Bangladesh,1990,0.397
+Tuvalu,1990,0.559
+India,1990,0.434
+Ghana,1990,0.46
+Guatemala,1990,0.484
+Honduras,1990,0.516
+Sao Tome and Principe,1990,0.485
+Namibia,1990,0.579
+Lao People's Democratic Republic,1990,0.405
+Nepal,1990,0.399
+Eswatini (Kingdom of),1990,0.545
+Cambodia,1990,0.378
+Zimbabwe,1990,0.509
+Myanmar,1990,0.333
+Syrian Arab Republic,1990,0.562
+Cameroon,1990,0.452
+Kenya,1990,0.474
+Congo,1990,0.522
+Zambia,1990,0.412
+Papua New Guinea,1990,0.37
+Mauritania,1990,0.397
+Côte d'Ivoire,1990,0.427
+Tanzania (United Republic of),1990,0.371
+Pakistan,1990,0.4
+Togo,1990,0.41
+Haiti,1990,0.429
+Rwanda,1990,0.319
+Benin,1990,0.359
+Uganda,1990,0.329
+Lesotho,1990,0.479
+Malawi,1990,0.303
+Senegal,1990,0.373
+Sudan,1990,0.336
+Gambia,1990,0.343
+Congo (Democratic Republic of the),1990,0.386
+Afghanistan,1990,0.273
+Sierra Leone,1990,0.312
+Guinea,1990,0.269
+Yemen,1990,0.383
+Mozambique,1990,0.238
+Mali,1990,0.237
+Burundi,1990,0.29
+Central African Republic,1990,0.338
+Niger,1990,0.216
+Switzerland,2000,0.887
+Norway,2000,0.913
+Iceland,2000,0.871
+"Hong Kong, China (SAR)",2000,0.851
+Australia,2000,0.896
+Denmark,2000,0.889
+Sweden,2000,0.904
+Ireland,2000,0.847
+Germany,2000,0.889
+Netherlands,2000,0.893
+Finland,2000,0.891
+Singapore,2000,0.831
+Belgium,2000,0.887
+New Zealand,2000,0.887
+Canada,2000,0.89
+Liechtenstein,2000,0.873
+Luxembourg,2000,0.864
+United Kingdom,2000,0.862
+Japan,2000,0.877
+Korea (Republic of),2000,0.825
+United States,2000,0.891
+Israel,2000,0.844
+Malta,2000,0.779
+Slovenia,2000,0.821
+Austria,2000,0.871
+United Arab Emirates,2000,0.796
+Spain,2000,0.825
+France,2000,0.844
+Cyprus,2000,0.797
+Italy,2000,0.841
+Estonia,2000,0.787
+Czechia,2000,0.808
+Greece,2000,0.81
+Poland,2000,0.793
+Bahrain,2000,0.798
+Lithuania,2000,0.766
+Saudi Arabia,2000,0.737
+Portugal,2000,0.791
+Latvia,2000,0.756
+Andorra,2000,0.818
+Croatia,2000,0.759
+Chile,2000,0.763
+Qatar,2000,0.801
+Slovakia,2000,0.763
+Hungary,2000,0.773
+Argentina,2000,0.779
+Türkiye,2000,0.67
+Kuwait,2000,0.787
+Brunei Darussalam,2000,0.808
+Russian Federation,2000,0.732
+Romania,2000,0.715
+Oman,2000,0.705
+Bahamas,2000,0.799
+Kazakhstan,2000,0.68
+Trinidad and Tobago,2000,0.712
+Costa Rica,2000,0.71
+Uruguay,2000,0.753
+Belarus,2000,0.712
+Panama,2000,0.721
+Malaysia,2000,0.721
+Georgia,2000,0.702
+Mauritius,2000,0.681
+Serbia,2000,0.69
+Thailand,2000,0.653
+Albania,2000,0.677
+Bulgaria,2000,0.725
+Barbados,2000,0.756
+Seychelles,2000,0.744
+Sri Lanka,2000,0.688
+Bosnia and Herzegovina,2000,0.667
+Iran (Islamic Republic of),2000,0.685
+Ukraine,2000,0.7
+North Macedonia,2000,0.675
+China,2000,0.584
+Dominican Republic,2000,0.646
+Moldova (Republic of),2000,0.641
+Palau,2000,0.739
+Cuba,2000,0.693
+Peru,2000,0.676
+Armenia,2000,0.662
+Mexico,2000,0.709
+Brazil,2000,0.679
+Colombia,2000,0.666
+Saint Vincent and the Grenadines,2000,0.683
+Maldives,2000,0.628
+Algeria,2000,0.649
+Azerbaijan,2000,0.622
+Tonga,2000,0.685
+Ecuador,2000,0.687
+Mongolia,2000,0.598
+Egypt,2000,0.633
+Tunisia,2000,0.658
+Fiji,2000,0.681
+Uzbekistan,2000,0.607
+Dominica,2000,0.695
+Jordan,2000,0.678
+Libya,2000,0.712
+Paraguay,2000,0.649
+Saint Lucia,2000,0.698
+Guyana,2000,0.577
+South Africa,2000,0.633
+Jamaica,2000,0.664
+Samoa,2000,0.683
+Gabon,2000,0.635
+Indonesia,2000,0.595
+Vietnam,2000,0.588
+Philippines,2000,0.633
+Botswana,2000,0.585
+Bolivia (Plurinational State of),2000,0.632
+Kyrgyzstan,2000,0.621
+Venezuela (Bolivarian Republic of),2000,0.684
+Iraq,2000,0.589
+Tajikistan,2000,0.56
+Belize,2000,0.64
+Morocco,2000,0.521
+El Salvador,2000,0.617
+Nicaragua,2000,0.566
+Cabo Verde,2000,0.569
+Bangladesh,2000,0.485
+Tuvalu,2000,0.597
+India,2000,0.491
+Ghana,2000,0.507
+Micronesia (Federated States of),2000,0.572
+Guatemala,2000,0.55
+Kiribati,2000,0.549
+Honduras,2000,0.556
+Sao Tome and Principe,2000,0.501
+Namibia,2000,0.546
+Lao People's Democratic Republic,2000,0.47
+Nepal,2000,0.467
+Eswatini (Kingdom of),2000,0.471
+Equatorial Guinea,2000,0.512
+Cambodia,2000,0.425
+Zimbabwe,2000,0.452
+Angola,2000,0.375
+Myanmar,2000,0.41
+Syrian Arab Republic,2000,0.587
+Cameroon,2000,0.442
+Kenya,2000,0.481
+Congo,2000,0.491
+Zambia,2000,0.418
+Solomon Islands,2000,0.486
+Comoros,2000,0.464
+Papua New Guinea,2000,0.447
+Mauritania,2000,0.465
+Côte d'Ivoire,2000,0.457
+Tanzania (United Republic of),2000,0.398
+Pakistan,2000,0.441
+Togo,2000,0.446
+Haiti,2000,0.47
+Rwanda,2000,0.34
+Benin,2000,0.416
+Uganda,2000,0.394
+Lesotho,2000,0.452
+Malawi,2000,0.374
+Senegal,2000,0.388
+Djibouti,2000,0.361
+Sudan,2000,0.424
+Madagascar,2000,0.443
+Gambia,2000,0.404
+Ethiopia,2000,0.287
+Liberia,2000,0.438
+Congo (Democratic Republic of the),2000,0.376
+Afghanistan,2000,0.335
+Sierra Leone,2000,0.318
+Guinea,2000,0.345
+Yemen,2000,0.45
+Burkina Faso,2000,0.296
+Mozambique,2000,0.303
+Mali,2000,0.317
+Burundi,2000,0.297
+Central African Republic,2000,0.329
+Niger,2000,0.262
+Chad,2000,0.291
+Switzerland,2010,0.942
+Norway,2010,0.941
+Iceland,2010,0.902
+"Hong Kong, China (SAR)",2010,0.907
+Australia,2010,0.923
+Denmark,2010,0.913
+Sweden,2010,0.91
+Ireland,2010,0.904
+Germany,2010,0.926
+Netherlands,2010,0.917
+Finland,2010,0.911
+Singapore,2010,0.91
+Belgium,2010,0.912
+New Zealand,2010,0.922
+Canada,2010,0.911
+Liechtenstein,2010,0.913
+Luxembourg,2010,0.912
+United Kingdom,2010,0.912
+Japan,2010,0.898
+Korea (Republic of),2010,0.89
+United States,2010,0.911
+Israel,2010,0.894
+Malta,2010,0.861
+Slovenia,2010,0.89
+Austria,2010,0.902
+United Arab Emirates,2010,0.835
+Spain,2010,0.868
+France,2010,0.877
+Cyprus,2010,0.857
+Italy,2010,0.882
+Estonia,2010,0.861
+Czechia,2010,0.87
+Greece,2010,0.869
+Poland,2010,0.841
+Bahrain,2010,0.808
+Lithuania,2010,0.842
+Saudi Arabia,2010,0.816
+Portugal,2010,0.829
+Latvia,2010,0.824
+Andorra,2010,0.848
+Croatia,2010,0.821
+Chile,2010,0.813
+Qatar,2010,0.834
+Slovakia,2010,0.84
+Hungary,2010,0.828
+Argentina,2010,0.834
+Türkiye,2010,0.749
+Montenegro,2010,0.808
+Kuwait,2010,0.813
+Brunei Darussalam,2010,0.828
+Russian Federation,2010,0.796
+Romania,2010,0.807
+Oman,2010,0.788
+Bahamas,2010,0.812
+Kazakhstan,2010,0.767
+Trinidad and Tobago,2010,0.79
+Costa Rica,2010,0.772
+Uruguay,2010,0.787
+Belarus,2010,0.79
+Panama,2010,0.773
+Malaysia,2010,0.769
+Georgia,2010,0.759
+Mauritius,2010,0.755
+Serbia,2010,0.767
+Thailand,2010,0.737
+Albania,2010,0.754
+Bulgaria,2010,0.79
+Grenada,2010,0.782
+Barbados,2010,0.788
+Antigua and Barbuda,2010,0.79
+Seychelles,2010,0.776
+Sri Lanka,2010,0.737
+Bosnia and Herzegovina,2010,0.725
+Saint Kitts and Nevis,2010,0.759
+Iran (Islamic Republic of),2010,0.745
+Ukraine,2010,0.764
+North Macedonia,2010,0.738
+China,2010,0.691
+Dominican Republic,2010,0.708
+Moldova (Republic of),2010,0.73
+Palau,2010,0.773
+Cuba,2010,0.78
+Peru,2010,0.725
+Armenia,2010,0.746
+Mexico,2010,0.746
+Brazil,2010,0.723
+Colombia,2010,0.726
+Saint Vincent and the Grenadines,2010,0.734
+Maldives,2010,0.688
+Algeria,2010,0.721
+Azerbaijan,2010,0.727
+Tonga,2010,0.713
+Turkmenistan,2010,0.711
+Ecuador,2010,0.736
+Mongolia,2010,0.701
+Egypt,2010,0.675
+Tunisia,2010,0.72
+Fiji,2010,0.714
+Suriname,2010,0.723
+Uzbekistan,2010,0.673
+Dominica,2010,0.711
+Jordan,2010,0.725
+Libya,2010,0.739
+Paraguay,2010,0.685
+"Palestine, State of",2010,0.687
+Saint Lucia,2010,0.728
+Guyana,2010,0.656
+South Africa,2010,0.675
+Jamaica,2010,0.704
+Samoa,2010,0.713
+Gabon,2010,0.664
+Lebanon,2010,0.77
+Indonesia,2010,0.664
+Vietnam,2010,0.663
+Philippines,2010,0.674
+Botswana,2010,0.66
+Bolivia (Plurinational State of),2010,0.662
+Kyrgyzstan,2010,0.664
+Venezuela (Bolivarian Republic of),2010,0.755
+Iraq,2010,0.64
+Tajikistan,2010,0.636
+Belize,2010,0.707
+Morocco,2010,0.603
+El Salvador,2010,0.659
+Nicaragua,2010,0.614
+Bhutan,2010,0.581
+Cabo Verde,2010,0.644
+Bangladesh,2010,0.553
+Tuvalu,2010,0.616
+India,2010,0.575
+Ghana,2010,0.574
+Micronesia (Federated States of),2010,0.625
+Guatemala,2010,0.605
+Kiribati,2010,0.589
+Honduras,2010,0.597
+Sao Tome and Principe,2010,0.554
+Namibia,2010,0.585
+Lao People's Democratic Republic,2010,0.551
+Timor-Leste,2010,0.619
+Vanuatu,2010,0.591
+Nepal,2010,0.543
+Eswatini (Kingdom of),2010,0.503
+Equatorial Guinea,2010,0.579
+Cambodia,2010,0.54
+Zimbabwe,2010,0.512
+Angola,2010,0.51
+Myanmar,2010,0.51
+Syrian Arab Republic,2010,0.66
+Cameroon,2010,0.513
+Kenya,2010,0.545
+Congo,2010,0.561
+Zambia,2010,0.529
+Solomon Islands,2010,0.55
+Comoros,2010,0.52
+Papua New Guinea,2010,0.499
+Mauritania,2010,0.51
+Côte d'Ivoire,2010,0.473
+Tanzania (United Republic of),2010,0.493
+Pakistan,2010,0.505
+Togo,2010,0.477
+Haiti,2010,0.433
+Nigeria,2010,0.482
+Rwanda,2010,0.489
+Benin,2010,0.492
+Uganda,2010,0.502
+Lesotho,2010,0.467
+Malawi,2010,0.456
+Senegal,2010,0.468
+Djibouti,2010,0.458
+Sudan,2010,0.486
+Madagascar,2010,0.492
+Gambia,2010,0.46
+Ethiopia,2010,0.412
+Eritrea,2010,0.463
+Guinea-Bissau,2010,0.443
+Liberia,2010,0.46
+Congo (Democratic Republic of the),2010,0.429
+Afghanistan,2010,0.448
+Sierra Leone,2010,0.427
+Guinea,2010,0.415
+Yemen,2010,0.51
+Burkina Faso,2010,0.372
+Mozambique,2010,0.402
+Mali,2010,0.404
+Burundi,2010,0.405
+Central African Republic,2010,0.372
+Niger,2010,0.338
+Chad,2010,0.362
+South Sudan,2010,0.43
+Switzerland,2020,0.956
+Norway,2020,0.959
+Iceland,2020,0.957
+"Hong Kong, China (SAR)",2020,0.949
+Australia,2020,0.947
+Denmark,2020,0.947
+Sweden,2020,0.942
+Ireland,2020,0.943
+Germany,2020,0.944
+Netherlands,2020,0.939
+Finland,2020,0.938
+Singapore,2020,0.939
+Belgium,2020,0.928
+New Zealand,2020,0.936
+Canada,2020,0.931
+Liechtenstein,2020,0.933
+Luxembourg,2020,0.924
+United Kingdom,2020,0.924
+Japan,2020,0.923
+Korea (Republic of),2020,0.922
+United States,2020,0.92
+Israel,2020,0.917
+Malta,2020,0.911
+Slovenia,2020,0.913
+Austria,2020,0.913
+United Arab Emirates,2020,0.912
+Spain,2020,0.899
+France,2020,0.898
+Cyprus,2020,0.894
+Italy,2020,0.889
+Estonia,2020,0.892
+Czechia,2020,0.892
+Greece,2020,0.886
+Poland,2020,0.876
+Bahrain,2020,0.877
+Lithuania,2020,0.879
+Saudi Arabia,2020,0.87
+Portugal,2020,0.863
+Latvia,2020,0.871
+Andorra,2020,0.848
+Croatia,2020,0.855
+Chile,2020,0.852
+Qatar,2020,0.854
+San Marino,2020,0.845
+Slovakia,2020,0.857
+Hungary,2020,0.849
+Argentina,2020,0.84
+Türkiye,2020,0.833
+Montenegro,2020,0.826
+Kuwait,2020,0.822
+Brunei Darussalam,2020,0.83
+Russian Federation,2020,0.83
+Romania,2020,0.824
+Oman,2020,0.827
+Bahamas,2020,0.815
+Kazakhstan,2020,0.814
+Trinidad and Tobago,2020,0.818
+Costa Rica,2020,0.816
+Uruguay,2020,0.821
+Belarus,2020,0.807
+Panama,2020,0.801
+Malaysia,2020,0.806
+Georgia,2020,0.802
+Mauritius,2020,0.804
+Serbia,2020,0.804
+Thailand,2020,0.802
+Albania,2020,0.794
+Bulgaria,2020,0.802
+Grenada,2020,0.792
+Barbados,2020,0.788
+Antigua and Barbuda,2020,0.788
+Seychelles,2020,0.793
+Sri Lanka,2020,0.78
+Bosnia and Herzegovina,2020,0.781
+Saint Kitts and Nevis,2020,0.779
+Iran (Islamic Republic of),2020,0.777
+Ukraine,2020,0.775
+North Macedonia,2020,0.774
+China,2020,0.764
+Dominican Republic,2020,0.764
+Moldova (Republic of),2020,0.766
+Palau,2020,0.773
+Cuba,2020,0.781
+Peru,2020,0.762
+Armenia,2020,0.757
+Mexico,2020,0.756
+Brazil,2020,0.758
+Colombia,2020,0.756
+Saint Vincent and the Grenadines,2020,0.764
+Maldives,2020,0.734
+Algeria,2020,0.736
+Azerbaijan,2020,0.73
+Tonga,2020,0.745
+Turkmenistan,2020,0.741
+Ecuador,2020,0.731
+Mongolia,2020,0.745
+Egypt,2020,0.734
+Tunisia,2020,0.737
+Fiji,2020,0.737
+Suriname,2020,0.743
+Uzbekistan,2020,0.721
+Dominica,2020,0.722
+Jordan,2020,0.723
+Libya,2020,0.703
+Paraguay,2020,0.73
+"Palestine, State of",2020,0.716
+Saint Lucia,2020,0.723
+Guyana,2020,0.721
+South Africa,2020,0.727
+Jamaica,2020,0.713
+Samoa,2020,0.712
+Gabon,2020,0.71
+Lebanon,2020,0.726
+Indonesia,2020,0.709
+Vietnam,2020,0.71
+Philippines,2020,0.71
+Botswana,2020,0.713
+Bolivia (Plurinational State of),2020,0.694
+Kyrgyzstan,2020,0.689
+Venezuela (Bolivarian Republic of),2020,0.695
+Iraq,2020,0.679
+Tajikistan,2020,0.664
+Belize,2020,0.69
+Morocco,2020,0.679
+El Salvador,2020,0.672
+Nicaragua,2020,0.654
+Bhutan,2020,0.668
+Cabo Verde,2020,0.662
+Bangladesh,2020,0.655
+Tuvalu,2020,0.639
+Marshall Islands,2020,0.639
+India,2020,0.642
+Ghana,2020,0.632
+Micronesia (Federated States of),2020,0.629
+Guatemala,2020,0.635
+Kiribati,2020,0.623
+Honduras,2020,0.621
+Sao Tome and Principe,2020,0.619
+Namibia,2020,0.633
+Lao People's Democratic Republic,2020,0.608
+Timor-Leste,2020,0.614
+Vanuatu,2020,0.608
+Nepal,2020,0.604
+Eswatini (Kingdom of),2020,0.61
+Equatorial Guinea,2020,0.599
+Cambodia,2020,0.596
+Zimbabwe,2020,0.6
+Angola,2020,0.59
+Myanmar,2020,0.6
+Syrian Arab Republic,2020,0.577
+Cameroon,2020,0.578
+Kenya,2020,0.578
+Congo,2020,0.574
+Zambia,2020,0.57
+Solomon Islands,2020,0.565
+Comoros,2020,0.562
+Papua New Guinea,2020,0.56
+Mauritania,2020,0.556
+Côte d'Ivoire,2020,0.551
+Tanzania (United Republic of),2020,0.548
+Pakistan,2020,0.543
+Togo,2020,0.535
+Haiti,2020,0.54
+Nigeria,2020,0.535
+Rwanda,2020,0.532
+Benin,2020,0.524
+Uganda,2020,0.524
+Lesotho,2020,0.521
+Malawi,2020,0.516
+Senegal,2020,0.513
+Djibouti,2020,0.51
+Sudan,2020,0.51
+Madagascar,2020,0.501
+Gambia,2020,0.501
+Ethiopia,2020,0.498
+Eritrea,2020,0.494
+Guinea-Bissau,2020,0.483
+Liberia,2020,0.48
+Congo (Democratic Republic of the),2020,0.479
+Afghanistan,2020,0.483
+Sierra Leone,2020,0.475
+Guinea,2020,0.466
+Yemen,2020,0.46
+Burkina Faso,2020,0.449
+Mozambique,2020,0.453
+Mali,2020,0.427
+Burundi,2020,0.426
+Central African Republic,2020,0.407
+Niger,2020,0.401
+Chad,2020,0.397
+South Sudan,2020,0.386

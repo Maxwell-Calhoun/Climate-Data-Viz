@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Climate Change - CSE 494 - Fall 2022</title>
+    <!-- LIBRARIES -->
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css"
+      integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
+      crossorigin="anonymous"
+    />
+    <script
+      src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+      integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/popper.js@1.14.7/dist/umd/popper.min.js"
+      integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js"
+      integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+      crossorigin="anonymous"
+    ></script>
+    <link rel="stylesheet" href="/css/stylesheet.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css"
+    />
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/noframework.waypoints.min.js"
+      integrity="sha512-fHXRw0CXruAoINU11+hgqYvY/PcsOWzmj0QmcSOtjlJcqITbPyypc8cYpidjPurWpCnlB8VKfRwx6PIpASCUkQ=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    ></script>
+    <script src="https://d3js.org/d3-geo-projection.v2.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/d3-color@3"></script>
+    <script src="https://cdn.jsdelivr.net/npm/d3-interpolate@3"></script>
+    <script src="https://cdn.jsdelivr.net/npm/d3-scale-chromatic@3"></script>
+    <!-- OUR JS FILES -->
+    <script src="js/index.js"></script>
+    <script src="js/scatterplot.js"></script>
+    <script src="js/choropleth.js"></script>
+    <script src="js/innovative.js"></script>
+    <script src="js/line.js"></script>
+    <script src="js/lollipop.js"></script>
+    <script src="js/pie.js"></script>
+  </head>
+  <body>
+    <div id="graphic">
+      <div class="container col-8">
+        <div id="div1">
+          <h1>Climate Change — An Environmental Crisis</h1>
+          <ul>
+            <li>Maxwell Calhoun (mlcalhou@asu.edu)</li>
+            <li>Raj Datta (ndatta@asu.edu)</li>
+            <li>Tucker Prynn (tprynn2@asu.edu)</li>
+          </ul>
+          <b>Overview: </b> Climate change, primarily driven by greenhouse gas
+          emissions, has already started to noticably impact our world, and
+          there is no sign of it slowing down in the near future. We aim to
+          investigate both the causes and the effects of this pressing global
+          issue through our narrative.
+          <hr />
+          <h3>
+            The industrial age marked a new era — not just for humans with their
+            technological advancements, but also for Earth itself with the start
+            of environmental pollution at scale. The release of toxic greenhouse
+            gases into the atmosphere has affected all aspects of the biosphere.
+            In recent years, we have been made increasingly aware of these
+            effects on our day-to-day lives. Global temperatures have soared to
+            new highs and we have seen unprecedented weather activity around the
+            world.
+          </h3>
+        </div>
+        <div id="div2">
+          <h3>
+            This shift in our environment is referred to as
+            <b>climate change</b>, and is considered to be humanity's greatest
+            threat. Yet, as big of an issue as climate change is regarded to be,
+            there are those who do not believe in its effects on our planet. In
+            a study conducted by Yale University in 2021, ~71.8% of Americans
+            believed in climate change, while ~14.5% of American did not believe
+            that climate change was real.
+          </h3>
+          <h3>
+            This lack of consensus has made climate change a politically charged
+            topic, and thus one that humanity has been very slow to act upon due
+            to modern bureaucracy.
+          </h3>
+        </div>
+        <div id="div3">
+          <h3>
+            Despite those who do not believe in climate change, data collected
+            by the National Oceanic and Atmospheric Administration (NOAA) has
+            showed an increase in storm frequency since 1955.
+          </h3>
+          <h3>
+            Alongside any material and environmental damage of more violent
+            storms, increased global temperatures have led to the destruction of
+            critical environments such as the Great Barrier Reef in Australia.
+          </h3>
+          <h3>
+            Given the historical data that we now possess, we can establish that
+            climate change is a real issue that has real effects. How did it
+            become such a large problem, and why has it not been solved yet?
+          </h3>
+        </div>
+        <div id="div4">
+          <h3>
+            A cause of the climate change is the climbing global temperatures as
+            a result in increased amounts of greenhouse gases in our atmosphere.
+            These greenhouse gases trap light from the sun in our atmosphere,
+            resulting in the gasees trapping heat as well, causing the warming
+            affect we see in the global rising temperatures.
+          </h3>
+          <h3>
+            The primary greenhouse gas emitted by humans is CO₂, this being that
+            our breath results in the production of CO₂ as well the burning of
+            fossil fuels for energy production and transportation. This results
+            in CO₂ accounting for almost
+            <a
+              href="https://www.epa.gov/ghgemissions/overview-greenhouse-gases"
+            >
+              80% of the U.S. greenhouse gas emissions in 2020</a
+            >.
+          </h3>
+        </div>
+        <div id="div5">
+          <h3>
+            Carbon dioxide makes up the overwhelming majority of greenhouse gas
+            emissions (about 79%), but it is not the only greenhouse gas that we
+            need to worry about. Other gasses, such as methane and nitrous
+            oxide, are also large contributors to climate change.
+          </h3>
+          <h3>
+            Methane, which is produced during the production and transport of
+            coal, natural gas, and oil, currently accounts for about 11% of
+            greenhouse gas emissions in the United States. It is also emitted by
+            livestock and from other farming practices as well as from the
+            decomposition of organic waste, such as in landfills. While this gas
+            is not nearly as prevalent as carbon dioxide, it has a higher Global
+            Warming Potential (GWP) of 27, which means that it absorbs roughly
+            27 times more gas over time than an equivalent amount of carbon
+            dioxide, and therefore also contributes more to global warming than
+            its relatively small percentage of total emissions might suggest.
+          </h3>
+          <h3>
+            Nitrous oxide is a byproduct of many industrial and agricultural
+            processes, as well as from burning fossil fuels, and makes up around
+            7% of the total greenhouse gas emissions in the U.S. Its GWP is even
+            higher than methane, causing it to absorb around 273 times as much
+            gas as an equivalent amount of carbon dioxide. Because of this,
+            while carbon dioxide is certainly an important gas to try to reduce
+            emissions of, it is also important to try and reduce the emissions
+            of other greenhouse gasses that can be just as damaging to the
+            environment.
+          </h3>
+        </div>
+        <div id="div6">
+          <h3>
+            Unfortunately, reducing greenhouse gas emissions is not as simple as
+            telling countries to outlaw harmful processes. The graph on the left
+            charts countries by their Human Development Index (HDI). For many
+            undeveloped countries, nonrenewable energy sources are their only
+            reliable way of powering the grid, and they may not have the
+            financial capacity to focus on renewable energy.
+          </h3>
+
+          <h3>
+            On the other end of the spectrum, developed countries tend to have a
+            large population of citizens, and thus a large demand for energy.
+            Because renewable sources of energy are intermittent (and do not run
+            continuously), satisfying 100% of the energy demand is not feasible
+            with current technology, and thus a reliance also exists on
+            nonrenewable sources to fill the gap.
+          </h3>
+        </div>
+        <div id="div7">
+          <h3>
+            While countries may grow in population linearly, their energy and
+            resource demands increase exponentially. The modern infrastructure
+            and supply chain does not exist to enable renewable energy as the
+            sole provider of energy going forwards, so currently supply falls
+            back on nonrenewable energy to fill in the quota. Thus, large
+            countries face the problem of having to replace a deeply-baked (and
+            continuously growing) nonrenewable power grid with a renewable
+            solution, while the cost of replacement grows exponentially with the
+            size and demand of the grid.
+          </h3>
+          <h3>
+            The visualization on the left compares the GDP, population, and
+            total CO2 emissions for each country in 2018. Clicking on a bubble
+            focuses on the sources of CO2 emissions for that country.
+          </h3>
+          <h3>
+            Energy demand is not the only contributing factor to increased
+            emissions in large countries. The widespread usage of concrete in
+            developed countries has led to cement being one of the largest
+            contributors to global CO2 emissions. Additionally, increase in
+            material demand has created an economic reliance on factories which
+            release harmful and toxic gases as part of the manufacturing
+            process.
+          </h3>
+          <h3>
+            Climate change cannot be solved with a "eureka" moment, it is a
+            complex and challenging societal issue that will take decades of
+            fighting to overcome. As the effects of climate change become more
+            impactful on our day-to-day lives, more global attention will be
+            focused on the issue (and thus more resources will be committed
+            towards working on a solution). In the years to come, renewable
+            energy sources such as nuclear fusion may be proven to be viable,
+            and global restrictions could be set in place to cap the amount of
+            regulated emissions per country.
+          </h3>
+        </div>
+      </div>
+      <div class="fixed col-4" id="vizContainer">
+        <div id="hidden"></div>
+        <svg id="viz" width="100%" height="100%"></svg>
+      </div>
+    </div>
+  </body>
+</html>
