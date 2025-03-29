@@ -1,5 +1,6 @@
 # Climate Change Data Visualization
 
+Developed By:
 - [Maxwell Calhoun](https://github.com/Maxwell-Calhoun)
 - [Raj Datta](https://github.com/rajdtta)
 - [Tucker Prynn](https://github.com/Tucker-Prynn)
@@ -159,7 +160,7 @@ Apart from the aforementioned narrative and visual changes, some of the unexpect
 
 The main thing we would do differently next time is to ensure that our narrative and visualizations are compatible with datasets available in the public domain. Climate change is a very popular issue, but not all countries make their information—especially "negative" things like emissions—readily accessible for anyone to download. This limited most of the comparison-based content we had planned.
 
-## Team Workload
+## Project Workload
 
 ### Maxwell Calhoun
 
