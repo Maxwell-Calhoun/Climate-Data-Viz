@@ -1,8 +1,8 @@
 # Climate Change Data Visualization
 
-- Maxwell Calhoun - Maxwell.Lee.Calhoun@gmail.com
-- Raj Datta - ndatta@asu.edu
-- Tucker Prynn - tprynn2@asu.edu
+- Maxwell Calhoun[https://github.com/Maxwell-Calhoun]
+- Raj Datta[https://github.com/rajdtta]
+- Tucker Prynn[https://github.com/Tucker-Prynn]
 
 ## Project Overview
 
