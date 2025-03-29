@@ -1,8 +1,8 @@
 # Climate Change Data Visualization
 
-- Maxwell Calhoun[https://github.com/Maxwell-Calhoun]
-- Raj Datta[https://github.com/rajdtta]
-- Tucker Prynn[https://github.com/Tucker-Prynn]
+- [Maxwell Calhoun](https://github.com/Maxwell-Calhoun)
+- [Raj Datta](https://github.com/rajdtta)
+- [Tucker Prynn](https://github.com/Tucker-Prynn)
 
 ## Project Overview
 
