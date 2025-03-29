@@ -168,7 +168,6 @@ The main thing we would do differently next time is to ensure that our narrative
   - Assisted with implementations / tweaks with the other graphs
 - Primarily responsible for the page design
 - Assisted with the story narrative
-- Assisted with the final poster
 
 ### Raj Datta
 
@@ -176,13 +175,11 @@ The main thing we would do differently next time is to ensure that our narrative
   - Assisted with implementations / tweaks with the other graphs
 - Primarily responsible for the story narrative
 - Assisted with the page design
-- Assisted with the final poster
 
 
 ### Tucker Prynn
 
 - Primarily responsible for the following visualization(s): line chart & choropleth
   - Assisted with implementations / tweaks with the other graphs
-- Primarily responsible for the final poster
 - Assisted with the page design
 - Assisted with the story narrative
