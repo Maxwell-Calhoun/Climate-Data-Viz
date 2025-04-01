@@ -25,7 +25,10 @@ document.addEventListener('DOMContentLoaded', () => {
     csv_OpinionData = [values[3]];
     csv_tornadoCount = [values[4]];
     json_world = values[5];
-
+    
+    // 🚀 Render first chart on page load instead of requiring scroll
+    pie(csv_OpinionData);
+    
     // Function triggers when crossing section boundaries
     function scroll(n, offset, func1, func2, data1 = null, data2 = null) {
       return new Waypoint({
@@ -40,7 +43,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     new scroll(
       'div2',
-      '50%',
+      '100%',
       pie,
       () => {
         return;
